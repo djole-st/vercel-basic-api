@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 
-app.use((req,res)=>{
+app.use('/home',(req,res)=>{
     res.send("Hello world");
 });
 
