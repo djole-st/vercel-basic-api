@@ -1,0 +1,22 @@
+{
+  "name": "vercel-basic-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djole-st/vercel-basic-api.git"
+  },
+  "author": "djole-st",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djole-st/vercel-basic-api/issues"
+  },
+  "homepage": "https://github.com/djole-st/vercel-basic-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
